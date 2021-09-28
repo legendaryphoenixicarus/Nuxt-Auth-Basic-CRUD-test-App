@@ -8,6 +8,9 @@
 # install dependencies
 npm install
 
+# start REST api backend server (new terminal)
+node ./src/server
+
 # serve with hot reload at localhost:8080
 npm run dev
 
