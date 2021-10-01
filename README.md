@@ -2,6 +2,10 @@
 
 > An application for Authentication & CRUD with Nuxt.js
 
+> My contacts : 
+> skype -> https://join.skype.com/invite/yfddPKFbEEuF
+> email -> legendary.phoenix.icarus@gmail.com
+
 ## Build Setup
 
 ``` bash
